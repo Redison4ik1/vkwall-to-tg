@@ -26,8 +26,7 @@ VK_BASE_URL = "https://m.vk.com/"
 
 
 vk_groups = {
-    #   'group_uniq_key': VKGroup
-    'garantfreelance': VKGroup(url_path='garantfreelance', description='Фриланс Сервис удалённой работы')
+    'group_uniq_key': VKGroup(url_path='url_path', description='Tratatata')
 }
 
 # html2text config
